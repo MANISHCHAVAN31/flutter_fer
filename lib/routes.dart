@@ -1,0 +1,4 @@
+const String CAPTURE_IMAGE = 'CAPTURE_IMAGE';
+const String IMAGE_RESULT = 'CAPTURE_RESULT';
+const String PLAYER_SCREEN = 'PLAYER_SCREEN';
+const String SONG_LIST = 'SONG_LIST';

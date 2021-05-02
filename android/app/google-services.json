@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586292820873",
+    "project_id": "ferw-3fe2f",
+    "storage_bucket": "ferw-3fe2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586292820873:android:1b1feec53b56f2f5e4bf58",
+        "android_client_info": {
+          "package_name": "dev.sanketnaik.flutter_fer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586292820873-7di2tiskfhnghhte9db1k1gqvkqi280n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoWBQcKuikuQsZrEyrLqSjX5rgkfyWaJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586292820873-7di2tiskfhnghhte9db1k1gqvkqi280n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
